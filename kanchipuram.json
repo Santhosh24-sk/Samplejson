@@ -1,6 +1,4 @@
-{
-	"Dest": "Kanchipuram",
-	"data": [
+[
 		{
 		"Time": "12:30 AM",
 		"Vno": "438",
@@ -683,5 +681,3 @@
 		"Dest": "Kanchipuram"
 	
 	}]
-
-}
