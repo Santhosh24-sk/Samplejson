@@ -1,12 +1,12 @@
 [
 		{
-		"Time": "12:30 AM",
-		"Vno": "438",
+		"time": "12:30 AM",
+		"vno": "438",
 		"Start": "Cheyyar",
 		"Dest": "Kanchipuram"
 	}, {
-		"Time": "01:15 AM",
-		"Vno": "438 ATC",
+		"time": "01:15 AM",
+		"vno": "438 ATC",
 		"Start": "Cheyyar",
 		"Dest": "Kanchipuram"
 	}, {
