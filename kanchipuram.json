@@ -1,5 +1,5 @@
-{
-	"Route": [{
+[
+	{
 		"time": "12:30 AM",
 		"vno": "438",
 		"Start": "Cheyyar",
@@ -9,5 +9,5 @@
 		"vno": "438 ATC",
 		"Start": "Cheyyar",
 		"Dest": "Kanchipuram"
-	}]
-}
+	}
+]
