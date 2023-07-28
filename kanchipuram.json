@@ -1,11 +1,5 @@
 [
 		
-		{
-		"Time": "Time",
-		"Vno": "Bus No",
-		"Start": "Cheyyar",
-		"Dest": "Kanchipuram"
-		},
                   {"Time": "12:30 AM",
 		"Vno": "438",
 		"Start": "Cheyyar",
