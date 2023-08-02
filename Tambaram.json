@@ -1,0 +1,38 @@
+[
+    {
+        "Time": "05:05 AM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    },
+    {
+        "Time": "07:00 AM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    },
+    {
+        "Time": "10:35 AM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    },
+    {
+        "Time": "02:00 PM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    },
+    {
+        "Time": "04:15 PM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    },
+    {
+        "Time": "06:35 PM",
+        "Vno": "279",
+        "Start": "Cheyyar",
+        "Dest": "Tambaram"
+    }
+]
