@@ -1,0 +1,20 @@
+[
+    {
+        "Time": "08:05 AM",
+        "Vno": "212H",
+        "Start": "Cheyyar",
+        "Dest": "Tirupati"
+    },
+    {
+        "Time": "08:50 AM",
+        "Vno": "212",
+        "Start": "Cheyyar",
+        "Dest": "Tirupati"
+    },
+    {
+        "Time": "06:10 PM",
+        "Vno": "212H",
+        "Start": "Cheyyar",
+        "Dest": "Tirupati"
+    }
+]
