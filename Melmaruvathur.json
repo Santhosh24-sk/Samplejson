@@ -1,0 +1,58 @@
+[
+    {
+        "S.No": "6",
+        "Time": "06:40 AM",
+        "Vno": "200",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "9",
+        "Time": "07:20 AM",
+        "Vno": "200",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "19",
+        "Time": "09:45 AM",
+        "Vno": "201",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "28",
+        "Time": "11:55 AM",
+        "Vno": "Prasanna",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "29",
+        "Time": "12:30 PM",
+        "Vno": "200",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "46",
+        "Time": "04:20 PM",
+        "Vno": "200",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "50",
+        "Time": "04:55 PM",
+        "Vno": "Prasanna",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    },
+    {
+        "S.No": "58",
+        "Time": "06:50 PM",
+        "Vno": "214",
+        "Start": "Cheyyar",
+        "Dest": "Melmaruvathur"
+    }
+]

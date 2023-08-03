@@ -1,0 +1,32 @@
+[
+    {
+        "Time": "06:55 AM",
+        "Vno": "444",
+        "Start": "Cheyyar",
+        "Dest": "Bengalore"
+    },
+    {
+        "Time": "07:35 AM",
+        "Vno": "303HA",
+        "Start": "Cheyyar",
+        "Dest": "Bengalore"
+    },
+    {
+        "Time": "08:50 AM",
+        "Vno": "475A",
+        "Start": "Cheyyar",
+        "Dest": "Bengalore"
+    },
+    {
+        "Time": "10:40 AM",
+        "Vno": "444",
+        "Start": "Cheyyar",
+        "Dest": "Bengalore"
+    },
+    {
+        "Time": "09:00 PM",
+        "Vno": "473A",
+        "Start": "Cheyyar",
+        "Dest": "Bengalore"
+    }
+]
